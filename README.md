@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arunchy
-- 👀 I’m interested in Praogramming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on website development
 - 📫 contact me on email id arunchy600@gmail.com
